@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"Password",
+        "PORT":4000,
+        "IP":"127.0.0.1",
+        "JWT_KEY":"secret"
+    }
+}
